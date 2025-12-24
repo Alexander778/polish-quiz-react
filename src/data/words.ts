@@ -415,5 +415,90 @@ export const words: Word[] = [
     "word": "zima",
     "translation": "зима",
     "type": "noun"
+  },
+  {
+    "word": "za planem",
+    "translation": "по плану",
+    "type": "verb"
+  },
+  {
+    "word": "po kolej",
+    "translation": "по черзі",
+    "type": "adverb"
+  },
+  {
+    "word": "zazwyczaj",
+    "translation": "зазвичай",
+    "type": "adverb"
+  },
+  {
+    "word": "zwykle",
+    "translation": "зазвичай",
+    "type": "adverb"
+  },
+  {
+    "word": "rzadko",
+    "translation": "рідко",
+    "type": "adverb"
+  },
+  {
+    "word": "leniwi",
+    "translation": "ледачий",
+    "type": "adjective"
+  },
+  {
+    "word": "sprzątać",
+    "translation": "прибирати",
+    "type": "verb"
+  },
+  {
+    "word": "uprawiać",
+    "translation": "займатися спортом",
+    "type": "verb"
+  },
+  {
+    "word": "zajęcie",
+    "translation": "заняття",
+    "type": "noun"
+  },
+  {
+    "word": "powiedzieć",
+    "translation": "сказати",
+    "type": "verb"
+  },
+  {
+    "word": "myślę że",
+    "translation": "я думаю що",
+    "type": "verb"
+  },
+  {
+    "word": "wypadek",
+    "translation": "випадок",
+    "type": "noun"
+  },
+  {
+    "word": "segregator",
+    "translation": "папка",
+    "type": "noun"
+  },
+  {
+    "word": "komórka",
+    "translation": "мобільний телефон",
+    "type": "noun"
+  },
+  {
+    "word": "kuber",
+    "translation": "кубик",
+    "type": "noun"
+  },
+  {
+    "word": "czaszka",
+    "translation": "череп",
+    "type": "noun"
+  },
+  {
+    "word": "obok",
+    "translation": "поруч",
+    "type": "preposition"
   }
 ];
