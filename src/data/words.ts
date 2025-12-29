@@ -500,5 +500,380 @@ export const words: Word[] = [
     "word": "obok",
     "translation": "поруч",
     "type": "preposition"
+  },
+  {
+    "word": "zdanie",
+    "translation": "речення",
+    "type": "noun"
+  },
+  {
+    "word": "obowiązek",
+    "translation": "обов’язок",
+    "type": "noun"
+  },
+  {
+    "word": "niemowlę",
+    "translation": "немовля",
+    "type": "noun"
+  },
+  {
+    "word": "długi",
+    "translation": "довгий",
+    "type": "adjective"
+  },
+  {
+    "word": "mysz",
+    "translation": "миша",
+    "type": "noun"
+  },
+  {
+    "word": "znany",
+    "translation": "відомий",
+    "type": "adjective"
+  },
+  {
+    "word": "korzystać",
+    "translation": "користуватися",
+    "type": "verb"
+  },
+  {
+    "word": "końcowka",
+    "translation": "закінчення",
+    "type": "noun"
+  },
+  {
+    "word": "ostatni",
+    "translation": "останній",
+    "type": "adjective"
+  },
+  {
+    "word": "zegar",
+    "translation": "годинник",
+    "type": "noun"
+  },
+  {
+    "word": "biurko",
+    "translation": "письмовий стіл",
+    "type": "noun"
+  },
+  {
+    "word": "ćwiczenie",
+    "translation": "вправа",
+    "type": "noun"
+  },
+  {
+    "word": "plecak",
+    "translation": "рюкзак",
+    "type": "noun"
+  },
+  {
+    "word": "gąbka",
+    "translation": "губка",
+    "type": "noun"
+  },
+  {
+    "word": "niestety",
+    "translation": "на жаль",
+    "type": "adverb"
+  },
+  {
+    "word": "zdjęcie",
+    "translation": "фотографія",
+    "type": "noun"
+  },
+  {
+    "word": "szary",
+    "translation": "сірий",
+    "type": "adjective"
+  },
+  {
+    "word": "granatowy",
+    "translation": "синій",
+    "type": "adjective"
+  },
+  {
+    "word": "na pewno",
+    "translation": "точно",
+    "type": "adverb"
+  },
+  {
+    "word": "chyba",
+    "translation": "напевно",
+    "type": "adverb"
+  },
+  {
+    "word": "kość",
+    "translation": "кістка",
+    "type": "noun"
+  },
+  {
+    "word": "powod",
+    "translation": "причина",
+    "type": "noun"
+  },
+  {
+    "word": "wtedy",
+    "translation": "тоді",
+    "type": "adverb"
+  },
+  {
+    "word": "pewnie",
+    "translation": "напевно",
+    "type": "adverb"
+  },
+  {
+    "word": "ciastko",
+    "translation": "печиво",
+    "type": "noun"
+  },
+  {
+    "word": "świeża",
+    "translation": "свіжа",
+    "type": "adjective"
+  },
+  {
+    "word": "rzecz",
+    "translation": "річ",
+    "type": "noun"
+  },
+  {
+    "word": "łatwo",
+    "translation": "легко",
+    "type": "adverb"
+  },
+  {
+    "word": "ćwiczyć",
+    "translation": "тренуватися",
+    "type": "verb"
+  },
+  {
+    "word": "najbardziej",
+    "translation": "найбільше",
+    "type": "adverb"
+  },
+  {
+    "word": "pracowity",
+    "translation": "працьовитий",
+    "type": "adjective"
+  },
+  {
+    "word": "smutny",
+    "translation": "сумний",
+    "type": "adjective"
+  },
+  {
+    "word": "wysportowany",
+    "translation": "спортивний",
+    "type": "adjective"
+  },
+  {
+    "word": "sportowe",
+    "translation": "спортивний",
+    "type": "adjective"
+  },
+  {
+    "word": "wolny",
+    "translation": "вільний",
+    "type": "adjective"
+  },
+  {
+    "word": "szybki",
+    "translation": "швидкий",
+    "type": "adjective"
+  },
+  {
+    "word": "nowy",
+    "translation": "новий",
+    "type": "adjective"
+  },
+  {
+    "word": "zły",
+    "translation": "поганий",
+    "type": "adjective"
+  },
+  {
+    "word": "brudny",
+    "translation": "брудний",
+    "type": "adjective"
+  },
+  {
+    "word": "krotki",
+    "translation": "короткий",
+    "type": "adjective"
+  },
+  {
+    "word": "tani",
+    "translation": "дешевий",
+    "type": "adjective"
+  },
+  {
+    "word": "drogi",
+    "translation": "дорогий",
+    "type": "adjective"
+  },
+  {
+    "word": "lekki",
+    "translation": "легкий",
+    "type": "adjective"
+  },
+  {
+    "word": "cięzki",
+    "translation": "важкий",
+    "type": "adjective"
+  },
+  {
+    "word": "zajęnty",
+    "translation": "зайнятий",
+    "type": "adjective"
+  },
+  {
+    "word": "chory",
+    "translation": "хворий",
+    "type": "adjective"
+  },
+  {
+    "word": "interesujący",
+    "translation": "цікавий",
+    "type": "adjective"
+  },
+  {
+    "word": "nudny",
+    "translation": "нудний",
+    "type": "adjective"
+  },
+  {
+    "word": "zdziwiony",
+    "translation": "здивований",
+    "type": "adjective"
+  },
+  {
+    "word": "trudny",
+    "translation": "складний",
+    "type": "adjective"
+  },
+  {
+    "word": "prosty",
+    "translation": "простіший",
+    "type": "adjective"
+  },
+  {
+    "word": "silny",
+    "translation": "сильний",
+    "type": "adjective"
+  },
+  {
+    "word": "zdrowy",
+    "translation": "здоровий",
+    "type": "adjective"
+  },
+  {
+    "word": "czysty",
+    "translation": "чистий",
+    "type": "adjective"
+  },
+  {
+    "word": "utalentowany",
+    "translation": "талановитий",
+    "type": "adjective"
+  },
+  {
+    "word": "agresywny",
+    "translation": "агресивний",
+    "type": "adjective"
+  },
+  {
+    "word": "aktywny",
+    "translation": "активний",
+    "type": "adjective"
+  },
+  {
+    "word": "inteligentny",
+    "translation": "розумний",
+    "type": "adjective"
+  },
+  {
+    "word": "ambitny",
+    "translation": "амбіційний",
+    "type": "adjective"
+  },
+  {
+    "word": "energiczny",
+    "translation": "енергійний",
+    "type": "adjective"
+  },
+  {
+    "word": "romantyczny",
+    "translation": "романтичний",
+    "type": "adjective"
+  },
+  {
+    "word": "sfrustrowany",
+    "translation": "розчарований",
+    "type": "adjective"
+  },
+  {
+    "word": "spontaniczny",
+    "translation": "спонтанний",
+    "type": "adjective"
+  },
+  {
+    "word": "zestresowany",
+    "translation": "стресований",
+    "type": "adjective"
+  },
+  {
+    "word": "kreatywny",
+    "translation": "креативний",
+    "type": "adjective"
+  },
+  {
+    "word": "uśmiechnięty",
+    "translation": "усміхнений",
+    "type": "adjective"
+  },
+  {
+    "word": "brutalny",
+    "translation": "жорстокий",
+    "type": "adjective"
+  },
+  {
+    "word": "dumny",
+    "translation": "гордий",
+    "type": "adjective"
+  },
+  {
+    "word": "szczęśliwy",
+    "translation": "щасливий",
+    "type": "adjective"
+  },
+  {
+    "word": "uzdolniony",
+    "translation": "вмілий",
+    "type": "adjective"
+  },
+  {
+    "word": "grzeczny",
+    "translation": "ввічливий",
+    "type": "adjective"
+  },
+  {
+    "word": "niebezpeczny",
+    "translation": "небезпечний",
+    "type": "adjective"
+  },
+  {
+    "word": "słaby",
+    "translation": "слабкий",
+    "type": "adjective"
+  },
+  {
+    "word": "przestraszony",
+    "translation": "наляканий",
+    "type": "adjective"
+  },
+  {
+    "word": "troskliwy",
+    "translation": "турботливий",
+    "type": "adjective"
   }
 ];
