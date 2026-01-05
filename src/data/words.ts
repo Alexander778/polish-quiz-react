@@ -875,5 +875,150 @@ export const words: Word[] = [
     "word": "troskliwy",
     "translation": "турботливий",
     "type": "adjective"
+  },
+  {
+    "word": "w domu",
+    "translation": "вдома",
+    "type": "adverb"
+  },
+  {
+    "word": "okazja",
+    "translation": "можливість",
+    "type": "noun"
+  },
+  {
+    "word": "pomyłka",
+    "translation": "помилка",
+    "type": "noun"
+  },
+  {
+    "word": "tyłko",
+    "translation": "тільки",
+    "type": "adverb"
+  },
+  {
+    "word": "jeszcze",
+    "translation": "ще",
+    "type": "adverb"
+  },
+  {
+    "word": "już",
+    "translation": "вже",
+    "type": "adverb"
+  },
+  {
+    "word": "popełnić bląd",
+    "translation": "робити помилку",
+    "type": "verb"
+  },
+  {
+    "word": "znależć",
+    "translation": "знайти",
+    "type": "verb"
+  },
+  {
+    "word": "moim zdaniem",
+    "translation": "на мою думку",
+    "type": "verb"
+  },
+  {
+    "word": "uważam że",
+    "translation": "я вважаю що",
+    "type": "verb"
+  },
+  {
+    "word": "uśmiech",
+    "translation": "усмішка",
+    "type": "noun"
+  },
+  {
+    "word": "pewni",
+    "translation": "впевненість",
+    "type": "noun"
+  },
+  {
+    "word": "mniej",
+    "translation": "менше",
+    "type": "adverb"
+  },
+  {
+    "word": "starsza",
+    "translation": "старша",
+    "type": "adjective"
+  },
+  {
+    "word": "udany",
+    "translation": "вдалий",
+    "type": "adjective"
+  },
+  {
+    "word": "człowiek sukcesu",
+    "translation": "успішна людина",
+    "type": "noun"
+  },
+  {
+    "word": "kolczyk",
+    "translation": "сережка",
+    "type": "noun"
+  },
+  {
+    "word": "poprawnie",
+    "translation": "правильно",
+    "type": "adverb"
+  },
+  {
+    "word": "przychodnia",
+    "translation": "поліклініка",
+    "type": "noun"
+  },
+  {
+    "word": "badanie",
+    "translation": "обстеження",
+    "type": "noun"
+  },
+  {
+    "word": "garnitur",
+    "translation": "костюм",
+    "type": "noun"
+  },
+  {
+    "word": "koszula",
+    "translation": "сорочка",
+    "type": "noun"
+  },
+  {
+    "word": "koszulka",
+    "translation": "футболка",
+    "type": "noun"
+  },
+  {
+    "word": "biegle",
+    "translation": "вільно",
+    "type": "adverb"
+  },
+  {
+    "word": "ulepszić",
+    "translation": "покращити",
+    "type": "verb"
+  },
+  {
+    "word": "marzyć",
+    "translation": "мріяти",
+    "type": "verb"
+  },
+  {
+    "word": "kończyć",
+    "translation": "закінчувати",
+    "type": "verb"
+  },
+  {
+    "word": "bawić się",
+    "translation": "розважатися",
+    "type": "verb"
+  },
+  {
+    "word": "suszyć",
+    "translation": "сушити",
+    "type": "verb"
   }
 ];
