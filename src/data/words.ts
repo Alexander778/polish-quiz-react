@@ -1020,5 +1020,120 @@ export const words: Word[] = [
     "word": "suszyć",
     "translation": "сушити",
     "type": "verb"
+  },
+  {
+    "word": "wreszcie",
+    "translation": "нарешті",
+    "type": "adverb"
+  },
+  {
+    "word": "cieszyć",
+    "translation": "радіти",
+    "type": "verb"
+  },
+  {
+    "word": "woleć",
+    "translation": "любити",
+    "type": "verb"
+  },
+  {
+    "word": "martwić się",
+    "translation": "турбуватися",
+    "type": "verb"
+  },
+  {
+    "word": "losowe",
+    "translation": "випадковий",
+    "type": "adjective"
+  },
+  {
+    "word": "codziennie",
+    "translation": "щоденний",
+    "type": "adjective"
+  },
+  {
+    "word": "odnosić się",
+    "translation": "відноситися",
+    "type": "verb"
+  },
+  {
+    "word": "szumieć",
+    "translation": "шуміти",
+    "type": "verb"
+  },
+  {
+    "word": "szczekać",
+    "translation": "гавкати",
+    "type": "verb"
+  },
+  {
+    "word": "żona",
+    "translation": "дружина",
+    "type": "noun"
+  },
+  {
+    "word": "bać",
+    "translation": "бояться",
+    "type": "verb"
+  },
+  {
+    "word": "stać",
+    "translation": "стояти",
+    "type": "verb"
+  },
+  {
+    "word": "spać",
+    "translation": "спати",
+    "type": "verb"
+  },
+  {
+    "word": "wysokości",
+    "translation": "висота",
+    "type": "noun"
+  },
+  {
+    "word": "prawie",
+    "translation": "майже",
+    "type": "adverb"
+  },
+  {
+    "word": "nawet",
+    "translation": "навіть",
+    "type": "adverb"
+  },
+  {
+    "word": "czasami",
+    "translation": "іноді",
+    "type": "adverb"
+  },
+  {
+    "word": "więcej",
+    "translation": "більше",
+    "type": "adverb"
+  },
+  {
+    "word": "małpa",
+    "translation": "мавпа",
+    "type": "noun"
+  },
+  {
+    "word": "przecinek",
+    "translation": "кома",
+    "type": "noun"
+  },
+  {
+    "word": "pytajnik",
+    "translation": "знак питання",
+    "type": "noun"
+  },
+  {
+    "word": "wykrzyknik",
+    "translation": "знак оклику",
+    "type": "noun"
+  },
+  {
+    "word": "przez",
+    "translation": "через",
+    "type": "preposition"
   }
 ];
