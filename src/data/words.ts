@@ -1135,5 +1135,125 @@ export const words: Word[] = [
     "word": "przez",
     "translation": "через",
     "type": "preposition"
+  },
+  {
+    "word": "średnio",
+    "translation": "в середньому",
+    "type": "adverb"
+  },
+  {
+    "word": "buty",
+    "translation": "взуття",
+    "type": "noun"
+  },
+  {
+    "word": "szczenię",
+    "translation": "щеня",
+    "type": "noun"
+  },
+  {
+    "word": "popierać",
+    "translation": "підтримувати",
+    "type": "verb"
+  },
+  {
+    "word": "zachowywać się",
+    "translation": "поводитися",
+    "type": "verb"
+  },
+  {
+    "word": "skomplikowany",
+    "translation": "складний",
+    "type": "adjective"
+  },
+  {
+    "word": "jasne",
+    "translation": "ясний",
+    "type": "adjective"
+  },
+  {
+    "word": "kompletnie",
+    "translation": "повний",
+    "type": "adjective"
+  },
+  {
+    "word": "część",
+    "translation": "частина",
+    "type": "noun"
+  },
+  {
+    "word": "zdecydować",
+    "translation": "вирішувати",
+    "type": "verb"
+  },
+  {
+    "word": "zachowanie",
+    "translation": "поведінка",
+    "type": "noun"
+  },
+  {
+    "word": "bol",
+    "translation": "біль",
+    "type": "verb"
+  },
+  {
+    "word": "rodzice",
+    "translation": "батьки",
+    "type": "noun"
+  },
+  {
+    "word": "nigdy",
+    "translation": "ніколи",
+    "type": "adverb"
+  },
+  {
+    "word": "ustalić",
+    "translation": "встановити",
+    "type": "verb"
+  },
+  {
+    "word": "lustro",
+    "translation": "дзеркало",
+    "type": "noun"
+  },
+  {
+    "word": "przyjazny",
+    "translation": "дружній",
+    "type": "adjective"
+  },
+  {
+    "word": "patrzeć",
+    "translation": "дивитися",
+    "type": "verb"
+  },
+  {
+    "word": "ruszać się",
+    "translation": "рухатися",
+    "type": "verb"
+  },
+  {
+    "word": "rzucić",
+    "translation": "кидати",
+    "type": "verb"
+  },
+  {
+    "word": "posłszne",
+    "translation": "слухняний",
+    "type": "adjective"
+  },
+  {
+    "word": "obroża",
+    "translation": "нашийник",
+    "type": "noun"
+  },
+  {
+    "word": "smycz",
+    "translation": "повідок",
+    "type": "noun"
+  },
+  {
+    "word": "legowisko",
+    "translation": "лежак",
+    "type": "noun"
   }
 ];
