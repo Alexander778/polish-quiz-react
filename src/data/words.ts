@@ -1255,5 +1255,55 @@ export const words: Word[] = [
     "word": "legowisko",
     "translation": "лежак",
     "type": "noun"
+  },
+  {
+    "word": "węszyć",
+    "translation": "нюхати",
+    "type": "verb"
+  },
+  {
+    "word": "wykonować polecenia",
+    "translation": "виконувати команди",
+    "type": "verb"
+  },
+  {
+    "word": "nudzić się",
+    "translation": "нудьгувати",
+    "type": "verb"
+  },
+  {
+    "word": "okazać się",
+    "translation": "виявитися",
+    "type": "verb"
+  },
+  {
+    "word": "obronić się",
+    "translation": "захищатися",
+    "type": "verb"
+  },
+  {
+    "word": "gatunek",
+    "translation": "вид",
+    "type": "noun"
+  },
+  {
+    "word": "mieć nadzieję",
+    "translation": "мати надію",
+    "type": "verb"
+  },
+  {
+    "word": "poważny",
+    "translation": "серйозний",
+    "type": "adjective"
+  },
+  {
+    "word": "rózne",
+    "translation": "різний",
+    "type": "adjective"
+  },
+  {
+    "word": "przydomek",
+    "translation": "кличка",
+    "type": "noun"
   }
 ];
