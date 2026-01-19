@@ -1305,5 +1305,70 @@ export const words: Word[] = [
     "word": "przydomek",
     "translation": "кличка",
     "type": "noun"
+  },
+  {
+    "word": "kłocić",
+    "translation": "сваритися",
+    "type": "verb"
+  },
+  {
+    "word": "zupełnie",
+    "translation": "зовсім",
+    "type": "adverb"
+  },
+  {
+    "word": "widać",
+    "translation": "бачити",
+    "type": "verb"
+  },
+  {
+    "word": "wkroczyć",
+    "translation": "вступати",
+    "type": "verb"
+  },
+  {
+    "word": "dogadać",
+    "translation": "порозумітися",
+    "type": "verb"
+  },
+  {
+    "word": "posiadanie",
+    "translation": "володіння",
+    "type": "noun"
+  },
+  {
+    "word": "wieloma",
+    "translation": "багато",
+    "type": "adjective"
+  },
+  {
+    "word": "jakby",
+    "translation": "ніби",
+    "type": "conjunction"
+  },
+  {
+    "word": "związany",
+    "translation": "пов’язаний",
+    "type": "adjective"
+  },
+  {
+    "word": "nastaviony",
+    "translation": "наступний",
+    "type": "adjective"
+  },
+  {
+    "word": "przywiązany",
+    "translation": "прив’язаний",
+    "type": "adjective"
+  },
+  {
+    "word": "oszust",
+    "translation": "шахрай",
+    "type": "noun"
+  },
+  {
+    "word": "jedziene",
+    "translation": "їжа",
+    "type": "noun"
   }
 ];
