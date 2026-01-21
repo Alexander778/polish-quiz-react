@@ -1370,5 +1370,70 @@ export const words: Word[] = [
     "word": "jedziene",
     "translation": "їжа",
     "type": "noun"
+  },
+  {
+    "word": "powietrze",
+    "translation": "повітря",
+    "type": "noun"
+  },
+  {
+    "word": "najgorsze",
+    "translation": "найгірше",
+    "type": "adjective"
+  },
+  {
+    "word": "godzina szczyt",
+    "translation": "година пік",
+    "type": "noun"
+  },
+  {
+    "word": "unikać",
+    "translation": "уникати",
+    "type": "verb"
+  },
+  {
+    "word": "tłum",
+    "translation": "натовп",
+    "type": "noun"
+  },
+  {
+    "word": "pomoc",
+    "translation": "допомога",
+    "type": "noun"
+  },
+  {
+    "word": "pomagać",
+    "translation": "допомагати",
+    "type": "verb"
+  },
+  {
+    "word": "dziennikarz",
+    "translation": "журналіст",
+    "type": "noun"
+  },
+  {
+    "word": "wpływać",
+    "translation": "впливати",
+    "type": "verb"
+  },
+  {
+    "word": "liczebnik",
+    "translation": "числівник",
+    "type": "noun"
+  },
+  {
+    "word": "sprzątaczka",
+    "translation": "прибиральниця",
+    "type": "noun"
+  },
+  {
+    "word": "zawodowy",
+    "translation": "професійний",
+    "type": "adjective"
+  },
+  {
+    "word": "potrawa",
+    "translation": "страва",
+    "type": "noun"
   }
 ];
