@@ -1435,5 +1435,100 @@ export const words: Word[] = [
     "word": "potrawa",
     "translation": "страва",
     "type": "noun"
+  },
+  {
+    "word": "wydawać",
+    "translation": "витрачати",
+    "type": "verb"
+  },
+  {
+    "word": "szczególnie",
+    "translation": "особливо",
+    "type": "adverb"
+  },
+  {
+    "word": "osobliwie",
+    "translation": "особливий",
+    "type": "adjective"
+  },
+  {
+    "word": "nabiał",
+    "translation": "молочні продукти",
+    "type": "noun"
+  },
+  {
+    "word": "tracić",
+    "translation": "втрачати",
+    "type": "verb"
+  },
+  {
+    "word": "sąsidka",
+    "translation": "сусідка",
+    "type": "noun"
+  },
+  {
+    "word": "podczas",
+    "translation": "під час",
+    "type": "preposition"
+  },
+  {
+    "word": "uprzedić",
+    "translation": "попередити",
+    "type": "verb"
+  },
+  {
+    "word": "ciłgly",
+    "translation": "цілий",
+    "type": "adjective"
+  },
+  {
+    "word": "elastyczny",
+    "translation": "гнучкий",
+    "type": "adjective"
+  },
+  {
+    "word": "połączenie",
+    "translation": "зв’язок",
+    "type": "noun"
+  },
+  {
+    "word": "przycisk",
+    "translation": "кнопка",
+    "type": "noun"
+  },
+  {
+    "word": "czapca",
+    "translation": "шапка",
+    "type": "noun"
+  },
+  {
+    "word": "tyć",
+    "translation": "товстіти",
+    "type": "verb"
+  },
+  {
+    "word": "czuć",
+    "translation": "відчувати",
+    "type": "verb"
+  },
+  {
+    "word": "psuć",
+    "translation": "псувати",
+    "type": "verb"
+  },
+  {
+    "word": "mdleć",
+    "translation": "знепритомніти",
+    "type": "verb"
+  },
+  {
+    "word": "nieść",
+    "translation": "нести",
+    "type": "verb"
+  },
+  {
+    "word": "obserwować",
+    "translation": "спостерігати",
+    "type": "verb"
   }
 ];
