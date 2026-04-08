@@ -1530,5 +1530,45 @@ export const words: Word[] = [
     "word": "obserwować",
     "translation": "спостерігати",
     "type": "verb"
+  },
+  {
+    "word": "miłczać",
+    "translation": "молчать",
+    "type": "verb"
+  },
+  {
+    "word": "pożartować",
+    "translation": "жартувати",
+    "type": "verb"
+  },
+  {
+    "word": "odrazy",
+    "translation": "відразу",
+    "type": "adverb"
+  },
+  {
+    "word": "ponownie",
+    "translation": "знову",
+    "type": "adverb"
+  },
+  {
+    "word": "wytłumaczyć",
+    "translation": "пояснити",
+    "type": "verb"
+  },
+  {
+    "word": "papier",
+    "translation": "папір",
+    "type": "noun"
+  },
+  {
+    "word": "salon urody",
+    "translation": "салон краси",
+    "type": "noun"
+  },
+  {
+    "word": "zioła",
+    "translation": "трави",
+    "type": "noun"
   }
 ];
