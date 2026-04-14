@@ -1532,11 +1532,6 @@ export const words: Word[] = [
     "type": "verb"
   },
   {
-    "word": "miłczać",
-    "translation": "молчать",
-    "type": "verb"
-  },
-  {
     "word": "pożartować",
     "translation": "жартувати",
     "type": "verb"
@@ -1570,5 +1565,35 @@ export const words: Word[] = [
     "word": "zioła",
     "translation": "трави",
     "type": "noun"
+  },
+  {
+    "word": "zreperować",
+    "translation": "відремонтувати",
+    "type": "verb"
+  },
+  {
+    "word": "w ogóle",
+    "translation": "взагалі",
+    "type": "adverb"
+  },
+  {
+    "word": "niektóre",
+    "translation": "деякі",
+    "type": "adjective"
+  },
+  {
+    "word": "osobna",
+    "translation": "окремий",
+    "type": "adjective"
+  },
+  {
+    "word": "podchodzić",
+    "translation": "підходити",
+    "type": "verb"
+  },
+  {
+    "word": "milczeć",
+    "translation": "мовчати",
+    "type": "verb"
   }
 ];
