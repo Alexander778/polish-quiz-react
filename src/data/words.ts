@@ -1595,5 +1595,50 @@ export const words: Word[] = [
     "word": "milczeć",
     "translation": "мовчати",
     "type": "verb"
+  },
+  {
+    "word": "badać",
+    "translation": "досліджувати",
+    "type": "verb"
+  },
+  {
+    "word": "randomny",
+    "translation": "випадковий",
+    "type": "adjective"
+  },
+  {
+    "word": "nawyk",
+    "translation": "звичка",
+    "type": "noun"
+  },
+  {
+    "word": "zeszły",
+    "translation": "минулий",
+    "type": "adjective"
+  },
+  {
+    "word": "swiętać",
+    "translation": "святкувати",
+    "type": "verb"
+  },
+  {
+    "word": "nawiązać",
+    "translation": "налагоджувати",
+    "type": "verb"
+  },
+  {
+    "word": "wieczeczka",
+    "translation": "екскурсія",
+    "type": "noun"
+  },
+  {
+    "word": "pryjazń",
+    "translation": "дружба",
+    "type": "noun"
+  },
+  {
+    "word": "zdejmować",
+    "translation": "знімати",
+    "type": "verb"
   }
 ];
