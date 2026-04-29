@@ -1640,5 +1640,55 @@ export const words: Word[] = [
     "word": "zdejmować",
     "translation": "знімати",
     "type": "verb"
+  },
+  {
+    "word": "mieć tremę",
+    "translation": " хвилюватися",
+    "type": "verb"
+  },
+  {
+    "word": "zamierzać",
+    "translation": "мати намір",
+    "type": "verb"
+  },
+  {
+    "word": "oprócz",
+    "translation": "окрім",
+    "type": "adverb"
+  },
+  {
+    "word": "niespodzianka",
+    "translation": "сюрприз",
+    "type": "noun"
+  },
+  {
+    "word": "zgodnie",
+    "translation": "згідно",
+    "type": "adverb"
+  },
+  {
+    "word": "stopni",
+    "translation": "градуси",
+    "type": "noun"
+  },
+  {
+    "word": "wlączyć",
+    "translation": "включити",
+    "type": "verb"
+  },
+  {
+    "word": "wyłączyć",
+    "translation": "вимкнути",
+    "type": "verb"
+  },
+  {
+    "word": "doba",
+    "translation": "сутки",
+    "type": "noun"
+  },
+  {
+    "word": "mijać",
+    "translation": "проходить",
+    "type": "verb"
   }
 ];
