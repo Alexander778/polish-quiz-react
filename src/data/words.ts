@@ -1690,5 +1690,30 @@ export const words: Word[] = [
     "word": "mijać",
     "translation": "проходить",
     "type": "verb"
+  },
+  {
+    "word": "samodzielne",
+    "translation": "самостійний",
+    "type": "adjective"
+  },
+  {
+    "word": "usunąć",
+    "translation": "видалить",
+    "type": "verb"
+  },
+  {
+    "word": "wstawiać",
+    "translation": "ставить",
+    "type": "verb"
+  },
+  {
+    "word": "wygodnie",
+    "translation": "зручно",
+    "type": "adverb"
+  },
+  {
+    "word": "obowiązkowe",
+    "translation": "обов’язковий",
+    "type": "adjective"
   }
 ];
