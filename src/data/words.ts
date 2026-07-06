@@ -1715,5 +1715,115 @@ export const words: Word[] = [
     "word": "obowiązkowe",
     "translation": "обов’язковий",
     "type": "adjective"
+  },
+  {
+    "word": "pudełko",
+    "translation": "коробка",
+    "type": "noun"
+  },
+  {
+    "word": "słoik",
+    "translation": "банка",
+    "type": "noun"
+  },
+  {
+    "word": "puszka",
+    "translation": "консервна банка",
+    "type": "noun"
+  },
+  {
+    "word": "karton",
+    "translation": "картонна коробка",
+    "type": "noun"
+  },
+  {
+    "word": "kawałek",
+    "translation": "шматок",
+    "type": "noun"
+  },
+  {
+    "word": "kostka",
+    "translation": "кубик",
+    "type": "noun"
+  },
+  {
+    "word": "plasterek",
+    "translation": "скибка",
+    "type": "noun"
+  },
+  {
+    "word": "tabliczka",
+    "translation": "плитка",
+    "type": "noun"
+  },
+  {
+    "word": "pomnik",
+    "translation": "пам’ятник",
+    "type": "noun"
+  },
+  {
+    "word": "winda",
+    "translation": "ліфт",
+    "type": "noun"
+  },
+  {
+    "word": "zapałki",
+    "translation": "сірники",
+    "type": "noun"
+  },
+  {
+    "word": "niewielę",
+    "translation": "невеликий",
+    "type": "adjective"
+  },
+  {
+    "word": "zgrzewka",
+    "translation": "упаковка",
+    "type": "noun"
+  },
+  {
+    "word": "bochenek",
+    "translation": "буханець",
+    "type": "noun"
+  },
+  {
+    "word": "wybierać się",
+    "translation": "збиратися",
+    "type": "verb"
+  },
+  {
+    "word": "nie cierpieć",
+    "translation": "ненавидіти",
+    "type": "verb"
+  },
+  {
+    "word": "zależeć od",
+    "translation": "залежати від",
+    "type": "verb"
+  },
+  {
+    "word": "poza tym",
+    "translation": "окрім того",
+    "type": "adverb"
+  },
+  {
+    "word": "prośba",
+    "translation": "прохання",
+    "type": "noun"
+  },
+  {
+    "word": "ćwierć",
+    "translation": "чверть",
+    "type": "noun"
+  },
+  {
+    "word": "wystarczy",
+    "translation": "достатньо",
+    "type": "adverb"
+  },
+  {
+    "word": "okropny",
+    "translation": "жахливий",
+    "type": "adjective"
   }
 ];
