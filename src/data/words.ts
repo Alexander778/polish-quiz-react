@@ -1825,5 +1825,35 @@ export const words: Word[] = [
     "word": "okropny",
     "translation": "жахливий",
     "type": "adjective"
+  },
+  {
+    "word": "kibicować",
+    "translation": "вболівати",
+    "type": "verb"
+  },
+  {
+    "word": "przegrać",
+    "translation": "програвати",
+    "type": "verb"
+  },
+  {
+    "word": "wygrywać",
+    "translation": "вигравати",
+    "type": "verb"
+  },
+  {
+    "word": "wszystko rownież",
+    "translation": "все одно",
+    "type": "adverb"
+  },
+  {
+    "word": "byle jaki",
+    "translation": "будь-який",
+    "type": "adjective"
+  },
+  {
+    "word": "transmisija",
+    "translation": "трансляція",
+    "type": "noun"
   }
 ];
