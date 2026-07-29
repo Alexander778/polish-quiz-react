@@ -1855,5 +1855,190 @@ export const words: Word[] = [
     "word": "transmisija",
     "translation": "трансляція",
     "type": "noun"
+  },
+  {
+    "word": "największy",
+    "translation": "найбільший",
+    "type": "adjective"
+  },
+  {
+    "word": "To się nie liczy",
+    "translation": "це не має значення",
+    "type": "verb"
+  },
+  {
+    "word": "Zwracać uwagę",
+    "translation": "звертати увагу",
+    "type": "verb"
+  },
+  {
+    "word": "łożyć",
+    "translation": "класти",
+    "type": "verb"
+  },
+  {
+    "word": "upał",
+    "translation": "спека",
+    "type": "noun"
+  },
+  {
+    "word": "wypoczynkowe",
+    "translation": "відпочинковий",
+    "type": "adjective"
+  },
+  {
+    "word": "z góry",
+    "translation": "заздалегідь",
+    "type": "adverb"
+  },
+  {
+    "word": "trafić",
+    "translation": "потрапляти",
+    "type": "verb"
+  },
+  {
+    "word": "mewa",
+    "translation": "чайка",
+    "type": "noun"
+  },
+  {
+    "word": "usytuowany",
+    "translation": "розташований",
+    "type": "adjective"
+  },
+  {
+    "word": "zrelaksować się",
+    "translation": "розслабитися",
+    "type": "verb"
+  },
+  {
+    "word": "najpierw",
+    "translation": "спочатку",
+    "type": "adverb"
+  },
+  {
+    "word": "wszędzie",
+    "translation": "скрізь",
+    "type": "adverb"
+  },
+  {
+    "word": "cień",
+    "translation": "тінь",
+    "type": "noun"
+  },
+  {
+    "word": "dojść do siebie",
+    "translation": "відновитися",
+    "type": "verb"
+  },
+  {
+    "word": "prostokąt",
+    "translation": "прямокутник",
+    "type": "noun"
+  },
+  {
+    "word": "bransoletka",
+    "translation": "браслет",
+    "type": "noun"
+  },
+  {
+    "word": "wpłacić",
+    "translation": "внести",
+    "type": "verb"
+  },
+  {
+    "word": "wypłacić",
+    "translation": "зняти",
+    "type": "verb"
+  },
+  {
+    "word": "zabawkowy",
+    "translation": "іграшковий",
+    "type": "adjective"
+  },
+  {
+    "word": "prysznic",
+    "translation": "душ",
+    "type": "noun"
+  },
+  {
+    "word": "niezapomniany",
+    "translation": "незабутній",
+    "type": "adjective"
+  },
+  {
+    "word": "ryzyko",
+    "translation": "ризик",
+    "type": "noun"
+  },
+  {
+    "word": "dołkola",
+    "translation": "навколо",
+    "type": "preposition"
+  },
+  {
+    "word": "skakać",
+    "translation": "стрибати",
+    "type": "verb"
+  },
+  {
+    "word": "pomiędzy",
+    "translation": "між",
+    "type": "preposition"
+  },
+  {
+    "word": "chętny",
+    "translation": "охочий",
+    "type": "adjective"
+  },
+  {
+    "word": "nagrywać",
+    "translation": "знімати",
+    "type": "verb"
+  },
+  {
+    "word": "przedyktować",
+    "translation": "передбачати",
+    "type": "verb"
+  },
+  {
+    "word": "rozrywki",
+    "translation": "розваги",
+    "type": "noun"
+  },
+  {
+    "word": "dźwięk",
+    "translation": "звук",
+    "type": "noun"
+  },
+  {
+    "word": "odwiedzać",
+    "translation": "відвідувати",
+    "type": "verb"
+  },
+  {
+    "word": "wkrótce",
+    "translation": "скоро",
+    "type": "adverb"
+  },
+  {
+    "word": "przerwa",
+    "translation": "перерва",
+    "type": "noun"
+  },
+  {
+    "word": "na czas",
+    "translation": "вчасно",
+    "type": "adverb"
+  },
+  {
+    "word": "dostarcza się",
+    "translation": "доставлятися",
+    "type": "verb"
+  },
+  {
+    "word": "wieloryb",
+    "translation": "кит",
+    "type": "noun"
   }
 ];
