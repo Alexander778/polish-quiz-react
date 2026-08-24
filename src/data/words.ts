@@ -2040,5 +2040,50 @@ export const words: Word[] = [
     "word": "wieloryb",
     "translation": "кит",
     "type": "noun"
+  },
+  {
+    "word": "odmienność",
+    "translation": "різноманітність",
+    "type": "noun"
+  },
+  {
+    "word": "przynajmniej",
+    "translation": "принаймні",
+    "type": "adverb"
+  },
+  {
+    "word": "przymierzyć",
+    "translation": "приміряти",
+    "type": "verb"
+  },
+  {
+    "word": "przymierzalnia",
+    "translation": "примірювальна",
+    "type": "noun"
+  },
+  {
+    "word": "sprzęt",
+    "translation": "обладнання",
+    "type": "noun"
+  },
+  {
+    "word": "krajobraz",
+    "translation": "пейзаж",
+    "type": "noun"
+  },
+  {
+    "word": "trzęsienie ziemi",
+    "translation": "землетрус",
+    "type": "noun"
+  },
+  {
+    "word": "zanieczyszczenie",
+    "translation": "забруднення",
+    "type": "noun"
+  },
+  {
+    "word": "jaskinia",
+    "translation": "печера",
+    "type": "noun"
   }
 ];
