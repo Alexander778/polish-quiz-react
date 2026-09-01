@@ -2085,5 +2085,20 @@ export const words: Word[] = [
     "word": "jaskinia",
     "translation": "печера",
     "type": "noun"
+  },
+  {
+    "word": "nie ciałkiem",
+    "translation": "не зовсім",
+    "type": "adverb"
+  },
+  {
+    "word": "kac",
+    "translation": "похмілля",
+    "type": "noun"
+  },
+  {
+    "word": "pożyteczne",
+    "translation": "корисне",
+    "type": "adjective"
   }
 ];
