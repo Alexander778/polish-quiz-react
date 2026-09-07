@@ -2100,5 +2100,15 @@ export const words: Word[] = [
     "word": "pożyteczne",
     "translation": "корисне",
     "type": "adjective"
+  },
+  {
+    "word": "czyności",
+    "translation": "активності",
+    "type": "noun"
+  },
+  {
+    "word": "media społecznościowe",
+    "translation": "соціальні мережі",
+    "type": "noun"
   }
 ];
