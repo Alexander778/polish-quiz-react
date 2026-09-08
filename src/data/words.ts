@@ -2190,5 +2190,75 @@ export const words: Word[] = [
     "word": "opanowanie",
     "translation": "спокій",
     "type": "noun"
+  },
+  {
+    "word": "katar",
+    "translation": "нежить",
+    "type": "noun"
+  },
+  {
+    "word": "przeziębienie",
+    "translation": "застуда",
+    "type": "noun"
+  },
+  {
+    "word": "uczulenie",
+    "translation": "алергія",
+    "type": "noun"
+  },
+  {
+    "word": "znieczulenie",
+    "translation": "знеболюючее",
+    "type": "noun"
+  },
+  {
+    "word": "zażywać leki",
+    "translation": "приймати ліки",
+    "type": "verb"
+  },
+  {
+    "word": "dawkowanie",
+    "translation": "дозування",
+    "type": "noun"
+  },
+  {
+    "word": "działania niepożądane",
+    "translation": "побічні ефекти",
+    "type": "noun"
+  },
+  {
+    "word": "woda utleniona",
+    "translation": "перекис водню",
+    "type": "noun"
+  },
+  {
+    "word": "odcisk",
+    "translation": "мозоль",
+    "type": "noun"
+  },
+  {
+    "word": "zatkany nos",
+    "translation": "закладений ніс",
+    "type": "noun"
+  },
+  {
+    "word": "zatrucie pokarmowe",
+    "translation": "харчове отруєння",
+    "type": "noun"
+  },
+  {
+    "word": "spuchnięty",
+    "translation": "набряклий",
+    "type": "adjective"
+  },
+  {
+    "word": "wysypka",
+    "translation": "висип",
+    "type": "noun"
+  },
+  {
+    "word": "ugryzienie",
+    "translation": "укушення",
+    "type": "noun"
   }
 ];
