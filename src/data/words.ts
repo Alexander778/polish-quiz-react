@@ -2110,5 +2110,85 @@ export const words: Word[] = [
     "word": "media społecznościowe",
     "translation": "соціальні мережі",
     "type": "noun"
+  },
+  {
+    "word": "denerwować",
+    "translation": "нервувати",
+    "type": "verb"
+  },
+  {
+    "word": "wkurzać",
+    "translation": "дратувати",
+    "type": "verb"
+  },
+  {
+    "word": "cudowny",
+    "translation": "чудовий",
+    "type": "adjective"
+  },
+  {
+    "word": "utknąć",
+    "translation": "застрягти",
+    "type": "verb"
+  },
+  {
+    "word": "doceniać",
+    "translation": "цінувати",
+    "type": "verb"
+  },
+  {
+    "word": "wybacić",
+    "translation": "вибачати",
+    "type": "verb"
+  },
+  {
+    "word": "zaburzać",
+    "translation": "турбувати",
+    "type": "verb"
+  },
+  {
+    "word": "równowaga",
+    "translation": "баланс",
+    "type": "noun"
+  },
+  {
+    "word": "szacunek",
+    "translation": "повага",
+    "type": "noun"
+  },
+  {
+    "word": "szanować",
+    "translation": "шанувати",
+    "type": "verb"
+  },
+  {
+    "word": "wśród",
+    "translation": "серед",
+    "type": "adverb"
+  },
+  {
+    "word": "porównać",
+    "translation": "порівнювати",
+    "type": "verb"
+  },
+  {
+    "word": "wpływ",
+    "translation": "вплив",
+    "type": "noun"
+  },
+  {
+    "word": "uspokoić się",
+    "translation": "заспокоїтися",
+    "type": "verb"
+  },
+  {
+    "word": "oddychać",
+    "translation": "дихати",
+    "type": "verb"
+  },
+  {
+    "word": "opanowanie",
+    "translation": "спокій",
+    "type": "noun"
   }
 ];
