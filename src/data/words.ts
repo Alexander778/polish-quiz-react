@@ -2260,5 +2260,55 @@ export const words: Word[] = [
     "word": "ugryzienie",
     "translation": "укушення",
     "type": "noun"
+  },
+  {
+    "word": "dawno",
+    "translation": "давно",
+    "type": "adverb"
+  },
+  {
+    "word": "jubileusz",
+    "translation": "ювілей",
+    "type": "noun"
+  },
+  {
+    "word": "rocznica",
+    "translation": "річниця",
+    "type": "noun"
+  },
+  {
+    "word": "z rzędu",
+    "translation": "підряд",
+    "type": "adverb"
+  },
+  {
+    "word": "dawka",
+    "translation": "доза",
+    "type": "noun"
+  },
+  {
+    "word": "zatrucie",
+    "translation": "отруєння",
+    "type": "noun"
+  },
+  {
+    "word": "tyle",
+    "translation": "стільки",
+    "type": "adverb"
+  },
+  {
+    "word": "oszczędności",
+    "translation": "заощадження",
+    "type": "noun"
+  },
+  {
+    "word": "inaczej",
+    "translation": "інакше",
+    "type": "adverb"
+  },
+  {
+    "word": "przed",
+    "translation": "перед",
+    "type": "preposition"
   }
 ];
