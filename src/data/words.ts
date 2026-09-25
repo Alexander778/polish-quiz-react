@@ -2310,5 +2310,55 @@ export const words: Word[] = [
     "word": "przed",
     "translation": "перед",
     "type": "preposition"
+  },
+  {
+    "word": "mnónstwo",
+    "translation": "багато",
+    "type": "adverb"
+  },
+  {
+    "word": "ubytek",
+    "translation": "карієс",
+    "type": "noun"
+  },
+  {
+    "word": "żuć",
+    "translation": "жувати",
+    "type": "verb"
+  },
+  {
+    "word": "dziąsła",
+    "translation": "ясна",
+    "type": "noun"
+  },
+  {
+    "word": "płytka nazębna",
+    "translation": "зубний наліт",
+    "type": "noun"
+  },
+  {
+    "word": "szczonteczka",
+    "translation": "зубна щітка",
+    "type": "noun"
+  },
+  {
+    "word": "polerować",
+    "translation": "полірувати",
+    "type": "verb"
+  },
+  {
+    "word": "wyrywać",
+    "translation": "виривати",
+    "type": "verb"
+  },
+  {
+    "word": "szkliwo",
+    "translation": "емаль",
+    "type": "noun"
+  },
+  {
+    "word": "prostować",
+    "translation": "вирівнювати",
+    "type": "verb"
   }
 ];
